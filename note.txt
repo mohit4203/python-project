@@ -1,1 +1,1 @@
-t
+to run this project run try page only index data is already import in the try file and put all the file in one folder
